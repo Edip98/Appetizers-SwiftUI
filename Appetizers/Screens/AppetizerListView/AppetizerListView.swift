@@ -49,5 +49,6 @@ struct AppetizerListView: View {
 struct AppetizerListView_Previews: PreviewProvider {
     static var previews: some View {
         AppetizerListView()
+            
     }
 }
